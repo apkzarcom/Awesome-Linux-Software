@@ -529,6 +529,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt.
 
 ### Games
+- [![Open-Source Software][OSS Icon]](https://releases.wildfiregames.com/) [Diamound quest](https://apkzar.com/diamond-quest-mod-apk/)) - Aware! The world's most popular and addictive adventure game is now on sale! If you've never played Diamond Quest: Don't Rush!, you can learn more about it here.
 
 #### RTS
 - [![Open-Source Software][OSS Icon]](https://releases.wildfiregames.com/) [0 A.D.](https://play0ad.com/) - Age of Empires like RTS game of ancient warfare.
@@ -542,6 +543,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
 - [HedgeWars](https://www.hedgewars.org/) - 2D game where teams compete in the style of the popular Worms games.
 - [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom) - Pixel-art military strategy implemented in Godot game engine.
+- [Truecaller](https://apkyolo.com/truecaller/) - Pixel-art military strategy implemented in Godot game engine.
 
 #### City Building Simulation
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts. Strike the earth!
